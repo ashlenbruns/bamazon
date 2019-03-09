@@ -1,3 +1,5 @@
+DROP DATABASE bamazon;
+
 CREATE DATABASE bamazon;
 
 USE bamazon;
@@ -10,3 +12,5 @@ price DECIMAL(4,2) NOT NULL,
 stk_qty INT(5) NOT NULL,
 PRIMARY KEY (item_id)
 )
+
+SELECT * FROM products;
