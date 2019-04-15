@@ -17,3 +17,9 @@ DEMOS:
   
 - Manager Access
   https://drive.google.com/open?id=1L7aNrpkcdjRtfKYMTZElqSm7n2N1XI7Y
+
+### TECHNOLOGIES USED
+* JavaScript
+* Node
+* Inquirer
+* MySQL
